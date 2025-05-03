@@ -116,7 +116,7 @@ enthusiast and I carry out small open-source projects for didatic and profession
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduFlp&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
@@ -124,7 +124,7 @@ enthusiast and I carry out small open-source projects for didatic and profession
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EduFlp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />

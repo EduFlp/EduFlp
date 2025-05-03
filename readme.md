@@ -9,15 +9,15 @@ enthusiast and I carry out small open-source projects for didatic and profession
 <p align="left">
     <a href="https://github.com/EduFlp?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total stars" 
+            title="Total stars on Github" 
             src="https://custom-icon-badges.demolab.com/github/stars/EduFlp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/EduFlp?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on Github" 
             src="https://custom-icon-badges.demolab.com/github/followers/EduFlp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -89,7 +89,7 @@ enthusiast and I carry out small open-source projects for didatic and profession
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpp/cpp-original.svg" 
 />
 <img 
     align="left" 
@@ -116,16 +116,14 @@ enthusiast and I carry out small open-source projects for didatic and profession
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="100" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EduFlp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=EduFlp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en-us" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduFlp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>

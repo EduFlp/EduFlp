@@ -11,14 +11,14 @@ enthusiast and I carry out small open-source projects for didatic and profession
         <img 
             alt="Total stars" 
             title="Total stars on Github" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EduFlp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/EduFlp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/EduFlp?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EduFlp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/EduFlp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
@@ -89,7 +89,7 @@ enthusiast and I carry out small open-source projects for didatic and profession
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpp/cpp-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
@@ -120,10 +120,11 @@ enthusiast and I carry out small open-source projects for didatic and profession
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EduFlp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
+  <br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduFlp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduFlp&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>

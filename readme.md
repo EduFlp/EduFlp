@@ -1,7 +1,15 @@
 # 👩🏻‍💻 Eduardo Felipe
 
 **`Fullstack Developer`**
-
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=EduFlp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+  />
+</p>
 My name is **Eduardo Felipe** and I'm 23 year old. I completed my high school education at the Integrated Education Center
 and I am studying **Electrical Engineering** at the **Federal University of Amapá**. In addition, I am a Full-Stack programming 
 enthusiast and I carry out small open-source projects for didatic and professional purposes.
@@ -112,15 +120,6 @@ enthusiast and I carry out small open-source projects for didatic and profession
 
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EduFlp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-</p>
 <p>
 <img 
       align="left" 

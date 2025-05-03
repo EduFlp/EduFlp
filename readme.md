@@ -120,7 +120,8 @@ enthusiast and I carry out small open-source projects for didatic and profession
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EduFlp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-  <br/>
+</p>
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 

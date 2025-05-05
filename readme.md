@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eduardo Felipe
+# 👨‍💻 Eduardo Felipe
 
 **`Fullstack Developer`**
 

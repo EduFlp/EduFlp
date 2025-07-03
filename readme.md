@@ -9,7 +9,7 @@ and first contact with a programming language)**, `C`**(a consequence of the C++
 In addition, I also have experience with some frameworks, such as: `BootStrap` **(a separate project that hasn't been published on Github, as I intend to make a better on the future)** and `SCSS` **(there is a
 project involving this framework on my Github and I intend to make another in the future)**.
 
-I'm currently working on creating a website for a volunteer cybersecurity project called **Purple Shyva**. This is my first group work using the Front-End area, but I always publish my results
+I'm currently working on creating a website for a volunteer cybersecurity project called **Purple Shyva**. This is my first group work using the **Front-End** area, but I always publish my results
 of the challenges I've done on programming practice sites and I hope to have the opportunity to take part in more projects in the future. 
 
 <p align="left">

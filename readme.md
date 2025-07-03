@@ -2,9 +2,15 @@
 
 **`Fullstack Developer`**
 
-My name is **Eduardo Felipe** and I'm 23 year old. I completed my high school education at the Integrated Education Center
-and I am studying **Electrical Engineering** at the **Federal University of Amapá**. In addition, I am a Full-Stack programming 
-enthusiast and I carry out small open-source projects for didatic and professional purposes.
+I am **Electrical Engineering** student and a programmer in my spare time. I've worked with different programming languages, but I'm currently focused on using `HTML`, `CSS` and `JavaScript` 
+to create websites and complete challenges. However, I have had experience with other languages, such as `Python`**(basic learning and teaching work for students from other schools)**, `C++`**(own projects
+and first contact with a programming language)**, `C`**(a consequence of the C++ language, but with little work done)** and `Java` **(a complete course in basic Java and Java Exceptions)**.
+
+In addition, I also have experience with some frameworks, such as: `BootStrap` **(a separate project that hasn't been published on Github, as I intend to make a better on the future)** and `SCSS` **(there is a
+project involving this framework on my Github and I intend to make another in the future)**.
+
+I'm currently working on creating a website for a volunteer cybersecurity project called **Purple Shyva**. This is my first group work using the Front-End area, but I always publish my results
+of the challenges I've done on programming practice sites and I hope to have the opportunity to take part in more projects in the future. 
 
 <p align="left">
     <a href="https://github.com/EduFlp?tab=repositories&sort=stargazers">
